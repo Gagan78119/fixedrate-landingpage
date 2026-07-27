@@ -4,14 +4,14 @@ import { motion } from 'framer-motion'
 const plans = [
   {
     name: '30 Seconds',
-    price: '1,000',
+    price: '2,000',
     note: 'A sharp cinematic introduction',
     features: ['AI-crafted video concept', '30-second final film', 'One platform-ready export'],
     tone: 'gold',
   },
   {
     name: '45 Seconds',
-    price: '1,500',
+    price: '2,500',
     note: 'More story, more product detail',
     features: ['Everything in 30 seconds', 'Expanded narrative pacing', 'Two platform-ready exports'],
     tone: 'copper',
@@ -19,7 +19,7 @@ const plans = [
   },
   {
     name: '60 Seconds',
-    price: '2,000',
+    price: '3,000',
     note: 'A complete premium campaign film',
     features: ['Full cinematic ad story', 'Stronger brand world-building', 'Three platform-ready exports'],
     tone: 'olive',
